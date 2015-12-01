@@ -51,7 +51,7 @@ Where:
 - `name` = Human-Readable Name
 - `inherit` = The Locale Code for inheriting translations for multiple dialects. Set this to 'none' if you don't want to inherit anything
 - `translations` = An object full of translations. The key (first term) is the target language, and the value (second term) is the english equivilent
-- 
+
 ### Footnote
 As FIRST grows, more and more countries join the worldwide program. For many of these countries, Language is a hurdle. Parlez-Vous is Team 5333's attempt at helping these teams overcome this hurdle, as Programming is something that is based largely in the English domain. By no means is Parlez-Vous fully featured in terms of Robot Control, but instead a tool to try and spark interest and help new teams get started. 
 
