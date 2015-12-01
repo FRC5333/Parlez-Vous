@@ -37,12 +37,17 @@ Filename: `LCID_language_code.json`, e.g. `en_US.json` or `fr_FR.json`
 Contents:
 ```json
 {
-  "code": "en_AU",					// LCID Language Code
-  "name": "English (Australia)",    // Human-Readable Code
-  "inherit": "en_US",				// Optional -- Locale Code for inheriting translations from (e.g. en_GB). If no inherit, use "none"
+  "code": "en_AU",					
+  "name": "English (Australia)", 
+  "inherit": "en_US",				
   "translations": {
-	  "g'day": "hello",				// All values to translate Left value for language, Right value for English equivilent
+	  "g'day": "hello",	
 	  "oi": "hello"
   }
 }
 ```
+Where: 
+- `code` = LCID Language Code
+- `name` = Human-Readable Name
+- `inherit` = The Locale Code for inheriting translations for multiple dialects. Set this to 'none' if you don't want to inherit anything
+- `translations` = An object full of translations. The key (first term) is the target language, and the value (second term) is the english equivilent
