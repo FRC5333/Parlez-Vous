@@ -1,0 +1,14 @@
+{
+  "code": "fr_FR",
+  "name": "French (France)",
+  "inherit": "none",
+  "translations": {
+    "Etat": "State", "fonction": "function", "Registre": "Log",
+    "si": "if", "puis": "then", "faire": "do", "autre": "else", "fin": "end",
+    "pour": "for", "paire": "pair", "chaîne": "string", "à": "to",
+    "gauche": "left", "droite": "right", "obtenir": "get", "ensemble": "set",
+    "Moteur": "Motor", "Fil": "Thread", "sommeiller": "sleep", "dormir": "sleep",
+    "exiger": "require", "nécessiter": "require", "demander": "require",
+    "Ordre": "Command", "Numérique": "Digital"
+  }
+}
