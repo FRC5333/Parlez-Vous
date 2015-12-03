@@ -1,0 +1,20 @@
+{
+  "code": "es_ES",
+  "name": "Spanish (International)",
+  "inherit": "none",
+  "translations": {
+    "Estado": "State", "función": "function", "Registrar": "Log",
+    "si": "if", "entonces": "then", "hacer": "do", "otro": "else", "fin": "end",
+    "para": "for", "par": "pair", "cadena": "string", "a": "to",
+    "izquierda": "left", "derecha": "right", "obtener": "get", "establecer": "set",
+    "Motor": "Motor", "Hilo": "Thread", "dormir": "sleep",
+    "exigir": "require", "necesitar": "require", "demandar": "require",
+    "Orden": "Command", "Comando": "Command", "Mando": "Command", "Digital": "Digital",
+	"booleano": "boolean", "interrumpir": "break", "caso": "case", "capturar": "catch",
+	"clase": "class", "continuar": "continue", "defecto": "default", "finalmente": "finally",
+	"ir": "goto", "importar": "import", "usar": "import", "nuevo": "new", "privado": "private", "protegido": "protected",
+	"interfaz": "interface", "long": "largo", "short": "corto", "estático": "static", "interruptor": "switch",
+	"regresar": "return", "público": "public", "esto": "this", "intentar": "try", "nulo": "void", "nada": "void",
+	"vacío": "void", "mientras": "while", "volátil": "volatile", "paquete": "package", "emitir": "throw",
+  }
+}
